@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 -->
 
 # 💫About Me :
-⚡ i'm Full Stack Developer
+👋 Hi, I'm Nirved Soni!
+
+ I'm a passionate web developer with a strong background in a variety of technologies including React.js, Next.js, Laravel, PHP, JavaScript, and CodeIgniter. My journey in the world of web development has been marked by a commitment to crafting robust and user-friendly web applications.
+
+ Over the years, I've had the privilege of working on diverse projects, from creating dynamic and responsive front-end interfaces with React.js and Next.js, to building scalable back-end solutions with Laravel and PHP.
 
 ## 🌐Socials
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nirvedsoni2802) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nirvedsoni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirvedsoni) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nirvedsoni)  
